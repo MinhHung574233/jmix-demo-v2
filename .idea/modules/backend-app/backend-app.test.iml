@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="JmixProjectModulesStateV2">
+    <option name="hasState" value="true" />
+    <option name="moduleState">
+      <JmixModuleStateV2>
+        <option name="artifactGroup" value="com.company" />
+        <option name="artifactName" value="backend-app" />
+        <option name="artifactVersion" value="0.0.1-SNAPSHOT" />
+        <option name="bomVersion" value="2.4.2" />
+        <option name="buildFilePath" value="F:\TradeFlat\DemoProjectJmix2_4\1\jmix-separate-tiers-sample-main\backend-app\build.gradle" />
+        <option name="buildScriptDependencies">
+          <Dependency configuration="classpath" group="io.jmix" name="io.jmix.gradle.plugin" version="2.4.2" />
+        </option>
+        <option name="buildSystemName" value="Gradle" />
+        <option name="classesDir" value="F:\TradeFlat\DemoProjectJmix2_4\1\jmix-separate-tiers-sample-main\backend-app\build\classes\java\main" />
+        <option name="dependencies">
+          <Dependency configuration="implementation" group="io.jmix.rest" name="jmix-rest-starter" />
+          <Dependency configuration="implementation" group="io.jmix.authserver" name="jmix-authserver-starter" />
+          <Dependency configuration="implementation" group="io.jmix.core" name="jmix-core-starter" />
+          <Dependency configuration="implementation" group="io.jmix.data" name="jmix-eclipselink-starter" />
+          <Dependency configuration="implementation" group="io.jmix.security" name="jmix-security-starter" />
+          <Dependency configuration="implementation" group="io.jmix.security" name="jmix-security-flowui-starter" />
+          <Dependency configuration="implementation" group="io.jmix.security" name="jmix-security-data-starter" />
+          <Dependency configuration="implementation" group="io.jmix.localfs" name="jmix-localfs-starter" />
+          <Dependency configuration="implementation" group="io.jmix.flowui" name="jmix-flowui-starter" />
+          <Dependency configuration="implementation" group="io.jmix.flowui" name="jmix-flowui-data-starter" />
+          <Dependency configuration="implementation" group="io.jmix.flowui" name="jmix-flowui-themes" />
+          <Dependency configuration="implementation" group="io.jmix.datatools" name="jmix-datatools-starter" />
+          <Dependency configuration="implementation" group="io.jmix.datatools" name="jmix-datatools-flowui-starter" />
+          <Dependency configuration="implementation" group="io.jmix.audit" name="jmix-audit-starter" />
+          <Dependency configuration="implementation" group="io.jmix.audit" name="jmix-audit-flowui-starter" />
+          <Dependency configuration="implementation" group="org.springframework.boot" name="spring-boot-starter-web" />
+          <Dependency configuration="runtimeOnly" group="org.hsqldb" name="hsqldb" />
+          <Dependency configuration="testImplementation" group="org.springframework.boot" name="spring-boot-starter-test">
+            <ExcludeRule group="org.junit.vintage" module="junit-vintage-engine" />
+          </Dependency>
+          <Dependency configuration="testImplementation" group="io.jmix.flowui" name="jmix-flowui-test-assist" />
+          <Dependency configuration="implementation platform" group="io.jmix.bom" name="jmix-bom" version="2.4.2" />
+        </option>
+        <option name="jarFile" value="F:\TradeFlat\DemoProjectJmix2_4\1\jmix-separate-tiers-sample-main\backend-app\build\libs\backend-app-0.0.1-SNAPSHOT-plain.jar" />
+        <option name="jmixVersion" value="2.4.2" />
+        <option name="mavenLocalURI" value="file:/$MAVEN_REPOSITORY$/" />
+        <option name="moduleName" value="backend-app" />
+        <option name="rootBuildFilePath" value="F:\TradeFlat\DemoProjectJmix2_4\1\jmix-separate-tiers-sample-main\backend-app\build.gradle" />
+        <option name="rootProjectName" value="backend-app" />
+        <option name="stateBuildScriptRepositories">
+          <Repository url="https://plugins.gradle.org/m2" />
+        </option>
+        <option name="stateRepositories">
+          <Repository url="https://repo.maven.apache.org/maven2/" />
+          <Repository url="https://nexus.jmix.io/repository/public" />
+        </option>
+      </JmixModuleStateV2>
+    </option>
+  </component>
+</module>
