@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="JmixProjectModulesStateV2">
+    <option name="hasState" value="true" />
+    <option name="moduleState">
+      <JmixModuleStateV2>
+        <option name="artifactVersion" value="unspecified" />
+        <option name="buildFilePath" value="F:\TradeFlat\DemoProjectJmix2_4\1\jmix-separate-tiers-sample-main\build.gradle" />
+        <option name="buildSystemName" value="Gradle" />
+        <option name="compositeProjectRoot" value="true" />
+        <option name="mavenLocalURI" value="file:/$MAVEN_REPOSITORY$/" />
+        <option name="moduleName" value="jmix-separate-tiers-sample" />
+        <option name="rootBuildFilePath" value="F:\TradeFlat\DemoProjectJmix2_4\1\jmix-separate-tiers-sample-main\build.gradle" />
+        <option name="rootProjectName" value="jmix-separate-tiers-sample" />
+      </JmixModuleStateV2>
+    </option>
+  </component>
+</module>

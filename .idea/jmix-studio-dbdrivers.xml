@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseDriversConfigurationState">
+    <drivers>
+      <db-driver id="org.hsqldb.jdbc.JDBCDriver">
+        <library url="/C:/Users/ADMIN/.gradle/caches/modules-2/files-2.1/org.hsqldb/hsqldb/2.7.3/85b49338b36f3051d217295596cf92beb92e4bfb/hsqldb-2.7.3.jar" />
+      </db-driver>
+      <db-driver id="org.postgresql.Driver">
+        <library url="/C:/Users/ADMIN/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.7.4/264310fd7b2cd76738787dc0b9f7ea2e3b11adc1/postgresql-42.7.4.jar" />
+      </db-driver>
+    </drivers>
+  </component>
+</project>
